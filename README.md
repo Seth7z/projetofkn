@@ -18,4 +18,3 @@ Ao final, o script utiliza *RandomizedSearchCV* para testar automaticamente deze
 * *Visualização*: Seaborn e Matplotlib (Gráficos de Matriz de Confusão)
 * *Machine Learning*: Scikit-Learn (Pipelines, TF-IDF Vectorizer, Train-Test Split)
 * *Métricas de Avaliação*: Acurácia, Matriz de Confusão e Classification Report (Precision, Recall, F1-Score)
-*
